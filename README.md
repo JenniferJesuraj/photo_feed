@@ -1,16 +1,9 @@
-# photo_feed
+# Flickr Photo Feed
 
-A new Flutter project.
+A Flutter project that searches for and displays a gallery of pictures from Flickr.
 
-## Getting Started
+## Demo
+![Photo Feed](demo/demo.gif)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app was made using [Flutter](https://flutter.dev/). You must have flutter [installed](https://flutter.dev/docs/get-started/install) to run the app as 
+`flutter run lib/main.dart` from the terminal.  
